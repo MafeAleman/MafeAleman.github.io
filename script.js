@@ -148,7 +148,7 @@ function gameOver(){
 }
 }
 function ganador(){
-    if(posicionActualUsuario[1]>=15){
+    if(posicionActualUsuario[1]>=10){
     alert("Ganaste");
 
     }
